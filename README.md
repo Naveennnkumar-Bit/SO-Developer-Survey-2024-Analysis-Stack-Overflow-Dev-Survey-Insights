@@ -5,7 +5,7 @@ This project demonstrates my ability to analyze the Stack Overflow Developer Sur
 
 ---
 
-![Survey Insights](https://github.com/YourUsername/StackOverflow-Dev-Survey-Analysis/blob/main/images/survey_analysis.png)
+![Survey Insights]("https://github.com/Naveennnkumar-Bit/Stack-Overflow-Dev-Survey-Insights/tree/main/charts")
 
 ---
 

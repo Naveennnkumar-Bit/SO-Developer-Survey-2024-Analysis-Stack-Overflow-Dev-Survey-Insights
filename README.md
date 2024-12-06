@@ -29,7 +29,7 @@ This project demonstrates my ability to analyze the Stack Overflow Developer Sur
 
 ### **3. Most Used Programming Languages**
 - **Insight**: Visualized the most frequently used programming languages based on survey responses.
-- **Chart**: ![Most Used Languages](charts/most_used_languages.png)
+- **Chart**: ![Most Used Languages](https://github.com/Naveennnkumar-Bit/Stack-Overflow-Dev-Survey-Insights/blob/main/charts/download%20(3).png)
 
 ### **4. Percentage of Participants by Age Category**
 - **Insight**: Visualized the distribution of participants across different age groups.

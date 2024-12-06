@@ -41,20 +41,19 @@ This project demonstrates my ability to analyze the Stack Overflow Developer Sur
 
 ### **7. Educational Level**
 - **Insight**: Explored the educational background of survey participants.
-- **Chart**: ![Educational Level](charts/education_level.png)
+- **Chart**: ![Educational Level](https://github.com/Naveennnkumar-Bit/Stack-Overflow-Dev-Survey-Insights/blob/main/charts/download%20(7).png)
 
 ### **8. Percentage of Participants by Learning Method**
 - **Insight**: Investigated the preferred learning methods for developers.
-- **Chart**: ![Learning Method](charts/learning_method.png)
+- **Chart**: ![Learning Method](https://github.com/Naveennnkumar-Bit/Stack-Overflow-Dev-Survey-Insights/blob/main/charts/download%20(8).png)
 
 ### **9. Work Environment Preferences**
 - **Insight**: Analyzed the work environment preferences of developers, including remote work and office work.
-- **Chart**: ![Work Environment](charts/work_environment.png)
+- **Chart**: ![Work Environment](https://github.com/Naveennnkumar-Bit/Stack-Overflow-Dev-Survey-Insights/blob/main/charts/download%20(9).png)
 
 ### **10. AI Threat Perception**
 - **Insight**: Investigated how developers perceive the threat of AI in the tech industry.
-- **Chart**: ![AI Threat](charts/ai_threat.png)
-
+- **Chart**: ![AI Threat](https://github.com/Naveennnkumar-Bit/Stack-Overflow-Dev-Survey-Insights/blob/main/charts/download%20(10).png)
 ---
 
 ## **Tools Used** 🛠️  

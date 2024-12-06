@@ -19,41 +19,42 @@ This project demonstrates my ability to analyze the Stack Overflow Developer Sur
 
 ## **Key Analysis Questions & Insights**  
 
-### **2. Top 10 Countries by Respondents**
+### **1. Top 10 Countries by Respondents**
 - **Insight**: Analyzed the top 10 countries with the highest number of respondents.
 - **Chart**: ![Top 10 Countries](https://github.com/Naveennnkumar-Bit/Stack-Overflow-Dev-Survey-Insights/blob/main/charts/download%20(2).png)
 
-### **3. Most Used Programming Languages**
+### **2. Most Used Programming Languages**
 - **Insight**: Visualized the most frequently used programming languages based on survey responses.
 - **Chart**: ![Most Used Languages](https://github.com/Naveennnkumar-Bit/Stack-Overflow-Dev-Survey-Insights/blob/main/charts/download%20(3).png)
 
-### **4. Percentage of Participants by Age Category**
+### **3 Percentage of Participants by Age Category**
 - **Insight**: Visualized the distribution of participants across different age groups.
 - **Chart**: ![Age Distribution](https://github.com/Naveennnkumar-Bit/Stack-Overflow-Dev-Survey-Insights/blob/main/charts/download%20(4).png)
 
-### **5. Percentage of Participants by Employment Type**
+### **4. Percentage of Participants by Employment Type**
 - **Insight**: Examined the breakdown of participants based on their employment type.
 - **Chart**: ![Employment Type](https://github.com/Naveennnkumar-Bit/Stack-Overflow-Dev-Survey-Insights/blob/main/charts/download%20(5).png)
 
-### **6. Percentage of Participants by Job Type**
+### **5. Percentage of Participants by Job Type**
 - **Insight**: Analyzed the percentage of participants working in various job types (e.g., full-time, part-time, freelance).
 - **Chart**: ![Job Type Distribution](https://github.com/Naveennnkumar-Bit/Stack-Overflow-Dev-Survey-Insights/blob/main/charts/download%20(6).png)
 
-### **7. Educational Level**
+### **6. Educational Level**
 - **Insight**: Explored the educational background of survey participants.
 - **Chart**: ![Educational Level](https://github.com/Naveennnkumar-Bit/Stack-Overflow-Dev-Survey-Insights/blob/main/charts/download%20(7).png)
 
-### **8. Percentage of Participants by Learning Method**
+### **7. Percentage of Participants by Learning Method**
 - **Insight**: Investigated the preferred learning methods for developers.
 - **Chart**: ![Learning Method](https://github.com/Naveennnkumar-Bit/Stack-Overflow-Dev-Survey-Insights/blob/main/charts/download%20(8).png)
 
-### **9. Work Environment Preferences**
+### **8. Work Environment Preferences**
 - **Insight**: Analyzed the work environment preferences of developers, including remote work and office work.
 - **Chart**: ![Work Environment](https://github.com/Naveennnkumar-Bit/Stack-Overflow-Dev-Survey-Insights/blob/main/charts/download%20(9).png)
 
-### **10. AI Threat Perception**
+### **9. AI Threat Perception**
 - **Insight**: Investigated how developers perceive the threat of AI in the tech industry.
 - **Chart**: ![AI Threat](https://github.com/Naveennnkumar-Bit/Stack-Overflow-Dev-Survey-Insights/blob/main/charts/download%20(10).png)
+
 ---
 
 ## **Tools Used** 🛠️  

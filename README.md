@@ -21,7 +21,7 @@ This project demonstrates my ability to analyze the Stack Overflow Developer Sur
 
 ### **1. Number of Respondents and Countries**
 - **Insight**: Identified the number of respondents and countries involved in the survey to understand the dataset's scope.
-- **Chart**: ![Respondents by Country](charts/download (2).png)
+- **Chart**: ![Respondents by Country]('charts/download (2).png)
 
 ### **2. Top 10 Countries by Respondents**
 - **Insight**: Analyzed the top 10 countries with the highest number of respondents.

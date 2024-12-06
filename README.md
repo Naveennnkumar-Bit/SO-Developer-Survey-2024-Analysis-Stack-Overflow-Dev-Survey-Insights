@@ -10,7 +10,7 @@ This project demonstrates my ability to analyze the Stack Overflow Developer Sur
 ---
 
 ## **Skills Demonstrated**  
-- Data cleaning and preprocessing in Python and Excel.  
+- Data cleaning and preprocessing in Python.
 - Exploratory data analysis (EDA) and data visualization with Matplotlib and Seaborn.  
 - Generating actionable insights based on survey responses.  
 - Analyzing survey results to identify global developer trends.

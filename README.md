@@ -19,13 +19,9 @@ This project demonstrates my ability to analyze the Stack Overflow Developer Sur
 
 ## **Key Analysis Questions & Insights**  
 
-### **1. Number of Respondents and Countries**
-- **Insight**: Identified the number of respondents and countries involved in the survey to understand the dataset's scope.
-- **Chart**: ![Respondents by Country](https://github.com/Naveennnkumar-Bit/Stack-Overflow-Dev-Survey-Insights/blob/main/charts/download%20(2).png)
-
 ### **2. Top 10 Countries by Respondents**
 - **Insight**: Analyzed the top 10 countries with the highest number of respondents.
-- **Chart**: ![Top 10 Countries](charts/top_10_countries.png)
+- **Chart**: ![Top 10 Countries](https://github.com/Naveennnkumar-Bit/Stack-Overflow-Dev-Survey-Insights/blob/main/charts/download%20(2).png)
 
 ### **3. Most Used Programming Languages**
 - **Insight**: Visualized the most frequently used programming languages based on survey responses.

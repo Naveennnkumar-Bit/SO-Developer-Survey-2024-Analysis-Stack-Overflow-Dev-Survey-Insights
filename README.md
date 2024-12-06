@@ -33,7 +33,7 @@ This project demonstrates my ability to analyze the Stack Overflow Developer Sur
 
 ### **5. Percentage of Participants by Employment Type**
 - **Insight**: Examined the breakdown of participants based on their employment type.
-- **Chart**: ![Employment Type]((https://github.com/Naveennnkumar-Bit/Stack-Overflow-Dev-Survey-Insights/blob/main/charts/download%20(5).png))
+- **Chart**: ![Employment Type](https://github.com/Naveennnkumar-Bit/Stack-Overflow-Dev-Survey-Insights/blob/main/charts/download%20(5).png)
 
 ### **6. Percentage of Participants by Job Type**
 - **Insight**: Analyzed the percentage of participants working in various job types (e.g., full-time, part-time, freelance).

@@ -29,15 +29,15 @@ This project demonstrates my ability to analyze the Stack Overflow Developer Sur
 
 ### **4. Percentage of Participants by Age Category**
 - **Insight**: Visualized the distribution of participants across different age groups.
-- **Chart**: ![Age Distribution](charts/age_distribution.png)
+- **Chart**: ![Age Distribution](https://github.com/Naveennnkumar-Bit/Stack-Overflow-Dev-Survey-Insights/blob/main/charts/download%20(4).png)
 
 ### **5. Percentage of Participants by Employment Type**
 - **Insight**: Examined the breakdown of participants based on their employment type.
-- **Chart**: ![Employment Type](charts/employment_type.png)
+- **Chart**: ![Employment Type]((https://github.com/Naveennnkumar-Bit/Stack-Overflow-Dev-Survey-Insights/blob/main/charts/download%20(5).png))
 
 ### **6. Percentage of Participants by Job Type**
 - **Insight**: Analyzed the percentage of participants working in various job types (e.g., full-time, part-time, freelance).
-- **Chart**: ![Job Type Distribution](charts/job_type_distribution.png)
+- **Chart**: ![Job Type Distribution](https://github.com/Naveennnkumar-Bit/Stack-Overflow-Dev-Survey-Insights/blob/main/charts/download%20(6).png)
 
 ### **7. Educational Level**
 - **Insight**: Explored the educational background of survey participants.

@@ -5,7 +5,7 @@ This project demonstrates my ability to analyze the Stack Overflow Developer Sur
 
 ---
 
-![Survey Insights]("https://github.com/Naveennnkumar-Bit/Stack-Overflow-Dev-Survey-Insights/blob/main/Logo%20for%20stackoverflow_com%20_%20Logo%20design%20contest.jpeg")
+![Survey Insights](https://github.com/Naveennnkumar-Bit/Stack-Overflow-Dev-Survey-Insights/blob/main/Logo%20for%20stackoverflow_com%20_%20Logo%20design%20contest.jpeg)
 
 ---
 
